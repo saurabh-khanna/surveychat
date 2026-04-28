@@ -202,4 +202,5 @@ secrets.toml
 paper/jats/
 paper/paper.pdf
 paper/paper.md
+paper/paper.bib
 overleaf/
