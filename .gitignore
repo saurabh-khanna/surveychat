@@ -201,3 +201,4 @@ secrets.toml
 # Paper files
 paper/jats/
 paper/paper.pdf
+paper/paper.md
